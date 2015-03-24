@@ -11,5 +11,7 @@ As a result, the accuracy of the software will be improved as more datasets are 
 convert the image data to relevant feature vectors that an ML framework works on, to generate an output that can classify the
 image at hand accordingly. Thus, the system can be used to automatically tag images after sufficient training.
 
+This system uses the scikit-learn library for ML and the scikit-image library for Image Processing. The pexif library is used to write tags to the image file
+
 This was done as a Mini-Project for Computer Science and Engineering at College of Engineering Chengannur, by Bhargav MD, 
 Bony Kuriakose, Lakshmi S and Leroy J Vargis
